@@ -17,3 +17,6 @@ Items you need (AliExpress links):
 
 You can print this without supports, but I recommend using ≤0.16 mm layer height.
 
+![alt text](https://github.com/LeoRauschenberger/VarPowerSupplySTL/blob/main/IMG_20210911_172434.jpg)
+![alt text](https://github.com/LeoRauschenberger/VarPowerSupplySTL/blob/main/IMG_20210911_172447.jpg)
+![alt text](https://github.com/LeoRauschenberger/VarPowerSupplySTL/blob/main/IMG_20210911_172459.jpg)
